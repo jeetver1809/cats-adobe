@@ -1,0 +1,12 @@
+.name{
+    color: red;
+}
+#heart{
+    float: right;
+
+}
+#cat{
+    float: right;
+    height: 600px;
+    border-radius: 10px;
+}
